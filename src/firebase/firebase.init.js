@@ -6,12 +6,11 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyCC0_LKSeQHqS8SX_misv6Qv7ocXTnLg4A",
-    authDomain: "dimple-firebase-project-70457.firebaseapp.com",
-    projectId: "dimple-firebase-project-70457",
-    storageBucket: "dimple-firebase-project-70457.firebasestorage.app",
-    messagingSenderId: "779455983703",
-    appId: "1:779455983703:web:5a6f9a0697846bc081f312"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    appId: ""
 };
 
 // Initialize Firebase
